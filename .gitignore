@@ -1,0 +1,14 @@
+# VSCode
+*.code-workspace
+
+# Python Virtual Environment
+.venv
+
+# Pycache
+__pycache__
+
+# Data
+_Data
+
+# Plot Animations
+Plot_animations
