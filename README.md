@@ -4,6 +4,13 @@ It does so by first obtaining the most recent data available at [Our World in Da
 
 This was my first attempt at making an animated plot and was heavily inspired by [this animation](https://www.reddit.com/r/dataisbeautiful/comments/s2vni6/oc_us_covid_patients_in_hospital/).
 
+
+### Animated Plot
+Below is the result (with data of 12/03/2022):
+
+https://user-images.githubusercontent.com/57732731/158072303-433d3f75-cbdc-4a2f-9467-320edc135492.mp4
+
+
 ### Usage
 To create the animation simply run `py Code\Portugal_covid19_cases_plot.py`.
 
